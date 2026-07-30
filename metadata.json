@@ -1,0 +1,6 @@
+{
+  "name": "AmBle",
+  "description": "An elegant, ultra-high-fidelity chat, VoIP, and WebRTC live video calling application featuring real-time CameraX video streams, connection diagnostics, and localized Room storage.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
