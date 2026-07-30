@@ -1,5 +1,3 @@
-node_modules
-dist
 *.iml
 .gradle
 .kotlin
@@ -17,6 +15,4 @@ dist
 .cxx
 local.properties
 .env
-.env.local
 debug.keystore
-
